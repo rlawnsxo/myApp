@@ -20,4 +20,4 @@ code 넣는곳
 ### 이미지
 ![Alt text](https://images.unsplash.com/photo-1587613991394-51450cb21333?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80)
 
-![Alt text]()
+![Alt text](img/1.PNG)
